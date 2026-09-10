@@ -1,0 +1,59 @@
+body
+{
+background:url(../images/img1\ \(1\).jpg)no-repeat center fixed;
+background-size: cover;
+
+}
+div
+{
+ background-color: rgba(54, 167, 219, 0.74);
+ color:rgb(47, 208, 248);
+ width: 20%;
+ margin: 0 auto;
+ margin-top:80px;
+ margin-right: 25px;
+ text-align: center;
+ border-radius: 15px;
+ padding:0px 20px;
+ box-shadow: -10px 13px 16px -1px rgba(0,0,0,0.75);
+
+}
+select
+{
+ width:80%;
+ background-color: rgb(146, 245, 245);
+ color:rgb(5, 94, 31);
+ padding: 5px;
+}
+ input
+ {
+ width:75%;
+ background-color: rgb(146, 245, 245);
+ color:rgb(5, 94, 31);
+ padding: 5px;
+ }
+ textarea
+ {
+     width:80%;
+ background-color: rgb(146, 245, 245);
+ color:rgb(5, 94, 31);
+ padding: 5px;
+ }
+ button
+ {
+ margin-bottom: 20px;
+ border-radius: 15px;
+ width:30%;
+ font-size:15px;
+ background-color: rgb(27, 206, 238);
+ color:rgb(17, 11, 11);
+ border: 3px solid rgb(20, 110, 110);
+ cursor: pointer;
+ margin-top: 10px;
+ }
+ 
+ button:hover
+ {
+    box-shadow: 1px 1px 10px 5px rgba(0,0,0,0.75);
+
+ }
