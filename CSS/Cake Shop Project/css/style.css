@@ -20,14 +20,15 @@ div
 }
 select
 {
- width:80%;
+ width:85%;
  background-color: rgb(146, 245, 245);
  color:rgb(5, 94, 31);
  padding: 5px;
 }
+
  input
  {
- width:75%;
+ width:80%;
  background-color: rgb(146, 245, 245);
  color:rgb(5, 94, 31);
  padding: 5px;
@@ -43,7 +44,7 @@ select
  {
  margin-bottom: 20px;
  border-radius: 15px;
- width:30%;
+ width:40%;
  font-size:15px;
  background-color: rgb(27, 206, 238);
  color:rgb(17, 11, 11);
