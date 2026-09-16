@@ -1,0 +1,195 @@
+body
+{
+margin: 0%;
+}
+
+
+
+.header
+{
+    width:100%;
+    height:80px;
+    background-color: rgb(0, 140, 255);
+}
+
+.header h2
+{
+color: aliceblue;
+margin-left:400px;
+position: absolute;
+}
+.header p
+{
+    color: aliceblue;
+    position: absolute;
+    margin-left: 85%;
+    margin-top: 50px;
+
+    
+}
+
+.header span
+    {
+        margin-left: 20px;
+    }
+.container
+{
+    width:80%;
+    height: 1100px;
+  
+    margin: 0 auto;
+}
+
+ .div1
+{
+    width: 100%;
+    height: 80px;
+    background-color: aquamarine;
+   
+}
+.div1 img
+{
+    height: 100%;
+    width: 200px;
+    margin-left: -5%;
+}
+ .div1 ul
+ {
+    list-style: none;
+    float: right;
+
+ }
+
+ .div1 ul li
+ {
+    float: left;
+    padding: 10px 20px;
+ }
+  .div1 ul li a
+  {
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: \fpx;
+
+  }
+ .div1 ul li:hover
+  {
+    background-color: rgb(4, 169, 245);
+  }
+  .div2
+  {
+    width: 100%;
+    height: 600px;
+    
+  }
+
+  .div2 img
+  {
+    width: 100%;
+    height: 80%;
+  }
+ 
+  .one
+  {
+    width: 32%;
+    height: 450px;
+    background-color: rgb(3, 150, 52);
+    margin-top: -60px;
+    border-radius: 10%;
+    float: left;
+  }
+
+   .tow
+  {
+    width: 32%;
+    height: 450px;
+    background-color: rgb(245, 75, 180);
+    margin-top: -60px;
+    border-radius: 10%;
+    float:left;
+    margin-left: 20px;
+  }
+ .three
+  {
+    width: 32%;
+    height: 450px;
+    background-color: rgb(4, 109, 109);
+    margin-top: -60px;
+    border-radius: 10%;
+    float:left;
+    margin-left: 20px;
+  }
+  .one h1
+  {
+    color: white;
+    text-align: center;
+    font-size: 35px;
+
+  }
+  .one p
+  {
+    color: rgb(254, 255, 255);
+    text-align: justify;
+    padding-left: 40px;
+    padding-right: 40px;
+
+  }
+  .one a
+  {
+    color: black;
+    text-decoration: none;
+    margin-left: 130px;
+    background-color: white;
+    padding: 10px;
+    border: 3px solid black;
+  }
+  .tow h1
+  {
+    color: white;
+    text-align: center;
+    font-size: 35px;
+
+  }
+  .tow p
+  {
+    color: rgb(254, 255, 255);
+    text-align: justify;
+    padding-left: 40px;
+    padding-right: 40px;
+
+  }
+  .tow a
+  {
+    color: black;
+    text-decoration: none;
+    margin-left: 130px;
+    background-color: white;
+    padding: 10px;
+    border: 3px solid black;
+  }
+  .three h1
+  {
+    color: white;
+    text-align: center;
+    font-size: 35px;
+
+  }
+  .three p
+  {
+    color: rgb(254, 255, 255);
+    text-align: justify;
+    padding-left: 40px;
+    padding-right: 40px;
+
+  }
+  .three a
+  {
+    color: black;
+    text-decoration: none;
+    margin-left: 130px;
+    background-color: white;
+    padding: 10px;
+    border: 3px solid black;
+  }
+
+   

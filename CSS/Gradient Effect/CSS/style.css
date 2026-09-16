@@ -1,0 +1,8 @@
+div
+{
+    width: 50%;
+    height: 400px;
+    background: radial-gradient(rgb(253, 165, 1),red);
+    border-radius:50%;
+
+}
