@@ -1,0 +1,41 @@
+body
+{
+   background: url(../images/img1\ \(2\).jpg) no-repeat center fixed;
+   background-size: cover;
+
+}
+
+
+
+.hover1 li:hover
+{
+    background-color: darkred;
+    
+}
+
+.one
+{
+    height: 250px;
+    background-color: rgba(255, 2, 2, 0.322);
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 18%;
+    border-radius: 15px;
+    color: rgb(255, 225, 170);
+
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+
+  text-align:center;
+  color:wheat;
+
+ 
+}
+
+.one h1
+{
+
+}
+
