@@ -3,11 +3,10 @@
 ========================= */
 
 * {
-    margin: 10px;
-    padding:10px;
+    margin: 0;
+    padding:0;
     box-sizing: border-box;
-    margin-top: -10px;
-    text-align: center;
+    
 }
 
 html {
@@ -31,7 +30,7 @@ body {
 ========================= */
 
 .header {
-    background: rgb(253, 252, 252);
+    background: white;
     padding: 18px 0;
     position: sticky;
     top: 0;
@@ -47,16 +46,14 @@ body {
 
 .logo h2 {
     color: #174a70;
-    margin: -20px;
+    margin: 0;
 }
 
 nav a {
     text-decoration: none;
     color: #333;
-    margin-left: 20px;
+    margin-left: 25px;
     font-weight: 500;
-    
-    
 }
 
 nav a:hover {
@@ -72,7 +69,8 @@ nav a:hover {
 
 
 .contact-container{
-    width:800px;
+   margin-left: 370px;
+    width:500px;
     background:#fff;
     padding:40px;
     border-radius:10px;
